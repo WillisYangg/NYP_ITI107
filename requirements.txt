@@ -1,0 +1,9 @@
+torch
+torchvision
+ultralytics
+wandb
+opencv-python-headless
+albumentations
+gradio
+huggingface_hub
+pandas

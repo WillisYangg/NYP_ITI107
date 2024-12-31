@@ -1,0 +1,8 @@
+path: /Users/willis/Desktop/github repos/NYP_ITI107/data
+train: images/train
+test: images/test
+val: images/valid
+
+# Classes
+names:
+  0: face_mask
